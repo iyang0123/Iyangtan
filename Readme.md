@@ -1,4 +1,4 @@
-# 🧠 Iyangtan Echo
+# 🧠 Iyangtan
 
 > A JARVIS-inspired AI assistant that combines voice interaction, RAG-based memory retrieval, and LLM-powered responses for personalized and context-aware assistance.
 
